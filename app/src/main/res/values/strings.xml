@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AltaContactos</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="fechanac">Fecha de Nacimiento</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="descripcion">Descripción Contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="titulo_confirmar">Confirmar Datos</string>
+</resources>
